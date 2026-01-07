@@ -5,6 +5,8 @@ This is my very first coding project. A game developed on Processing using Java,
 A 2D top-down survival/defence game built in **Java (Processing)** as my first-year Software Engineering project.
 
 ## Gameplay
+
+![Crystal Defender gameplay](gameplay.gif)
 - Defend the crystal in the center
 - Survive waves of enemies that increase in difficulty
 - Player movement + mouse-based attack
