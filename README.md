@@ -6,7 +6,7 @@ A 2D top-down survival/defence game built in **Java (Processing)** as my first-y
 
 ## Gameplay
 
-![Crystal Defender gameplay](CyrstalDefender.gif)
+![Crystal Defender gameplay](CrystalDefender.gif)
 - Defend the crystal in the center
 - Survive waves of enemies that increase in difficulty
 - Player movement + mouse-based attack
